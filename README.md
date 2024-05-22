@@ -2,6 +2,9 @@
 <img src="./images/t-swap-youtube-dimensions.png" width="400" alt="t-swap">
 <br/>
 
+### NOTE
+The key parts to focus on in this codebase are the invariant testing (Fuzzing) in the test folder
+
 # TSwap 
 
 This project is meant to be a permissionless way for users to swap assets between each other at a fair price. You can think of T-Swap as a decentralized asset/token exchange (DEX). 
